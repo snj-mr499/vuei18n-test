@@ -1,0 +1,38 @@
+[
+    {
+      "id": 1,
+      "title": "Flower shop",
+      "imgUrl": "/img/flower.jpg" 
+    },
+    {
+      "id": 2,
+      "title": "Myitkyina",
+      "imgUrl": "/img/myitkyina.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Mandalay",
+      "imgUrl": "/img/mandalay.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Yangon",
+      "imgUrl": "/img/yagnon.jpg",
+      "flex": 3
+    },
+    {
+      "id": 5,
+      "title": "Inle",
+      "imgUrl": "/img/inle.jpg"
+    },
+    {
+      "id": 6,
+      "title": "Lashio",
+      "imgUrl": "/img/lashio.jpg"
+    },
+    {
+        "id": 7,
+        "title": "Pyin Oo Lwin",
+        "imgUrl": "/img/pinoolwin.jpg"
+    }
+  ]

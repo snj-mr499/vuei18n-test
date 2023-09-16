@@ -1,0 +1,28 @@
+{
+    "app": {
+        "title": "M Garden Flower Shop Delivery Service"
+    },
+    "user_greeting": "Hello",
+    "login": "Login",
+    "sign_up": "Sign up",
+    "footer": "© 2023 M Garden",
+    "message": "Available to order in these cities",  
+    "card": {
+        "title_1": "Order varieties of flowers that you love",
+        "loc_1": "Myitkyina",
+        "loc_2": "Mandalay",
+        "loc_3": "Yangon",
+        "loc_4": "Inle",
+        "loc_5": "Lashio",
+        "loc_6": "Pyin Oo Lwin"
+    },
+    "about": {
+        "title1": "Order flower online from the best fresh flower delivery service in Myanmar",
+        "para1": "At M Garden Flower Delivery, we bring the beauty and elegance of our garden right to your doorstep. Our flower shop is nestled within a lush and vibrant garden, allowing us to offer you the freshest and most exquisite blooms for all occasions.",
+        "title2": "Why use our service?",
+        "para2": "You'll receive the freshest and most beautiful flowers every time.",
+        "para3": "Our skilled florists have a passion for creating stunning arrangements that convey your emotions perfectly.",
+        "para4": "We provide efficient and reliable delivery services, ensuring your flowers arrive in pristine condition.",
+        "para5": "Our flower shop's unique location within a garden allows us to offer an unparalleled selection of blooms."
+    }
+}
