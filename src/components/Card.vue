@@ -37,17 +37,17 @@
             <v-row>
                 <v-col>
                    <h2 class="about-color">{{ $t('about.title1') }}</h2> 
-                   <p>{{ $t('about.para1') }}</p>
+                   <p class="p-color">{{ $t('about.para1') }}</p>
                 </v-col>
             </v-row>
             <v-row>
                 <v-col>
                    <h2 class="about-color">{{ $t('about.title2') }}</h2>
                    <ul>
-                        <li>{{ $t('about.para2') }}</li>
-                        <li>{{ $t('about.para3') }}</li>
-                        <li>{{ $t('about.para4') }}</li>
-                        <li>{{ $t('about.para5') }}</li>
+                        <li class="p-color">{{ $t('about.para2') }}</li>
+                        <li class="p-color">{{ $t('about.para3') }}</li>
+                        <li class="p-color">{{ $t('about.para4') }}</li>
+                        <li class="p-color">{{ $t('about.para5') }}</li>
                    </ul>
                 </v-col>
             </v-row>
@@ -79,5 +79,8 @@ export default {
 
   .about-color{
     color: #ff69b4;
+  }
+  .p-color{
+    color: rgb(224, 138, 191)
   }
   </style>
