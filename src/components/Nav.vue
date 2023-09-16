@@ -42,7 +42,7 @@
     justify-content: space-between;
     align-items: center;
     text-align: left;
-    padding: 1rem;
+    padding: 0.5rem;
     color: #fff;
     background-color: #f1c9de;
     
@@ -56,7 +56,7 @@
   
   .nav img {
     margin-right: 1rem;
-    width: 90px; /* Adjust the width as needed */
+    width: 70px; /* Adjust the width as needed */
     height: auto;
   }
 

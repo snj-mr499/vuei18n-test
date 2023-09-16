@@ -3,7 +3,7 @@
         class="mx-auto"
     >
         <v-container fluid>
-            <h2 class="title-color">{{$t("app.title")}}</h2>
+            <h2 class="title-color" style="padding: 1rem;">{{$t("app.title")}}</h2>
             <v-divider></v-divider>
             <v-row dense>
                 <v-col
@@ -24,7 +24,7 @@
                         <v-card>
                             <v-row v-if="card.id == 1">
                                 <v-col>
-                                    <h3 class="about-color">{{ $t(message) }}</h3>
+                                    <h3 class="about-color" style="padding: 2rem;">{{ $t(message) }}</h3>
                                 </v-col>
                             </v-row>
                         </v-card>
